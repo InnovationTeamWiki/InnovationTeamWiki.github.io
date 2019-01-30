@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2019%2F01%2F30%2Ftest%2F</url>
+    <content type="text"><![CDATA[测试页]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[智能双录FAQ]]></title>
+    <url>%2F2017%2F10%2F28%2FDR_faq%2F</url>
+    <content type="text"><![CDATA[Welcome to 智能双录FAQ!]]></content>
+      <categories>
+        <category>FAQ</category>
+      </categories>
+  </entry>
+</search>
